@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/randa/static/css/main.8b8ab676.chunk.css",
-    "main.js": "/randa/static/js/main.889cdc15.chunk.js",
-    "main.js.map": "/randa/static/js/main.889cdc15.chunk.js.map",
+    "main.js": "/randa/static/js/main.ed218304.chunk.js",
+    "main.js.map": "/randa/static/js/main.ed218304.chunk.js.map",
     "runtime-main.js": "/randa/static/js/runtime-main.dc65dcbe.js",
     "runtime-main.js.map": "/randa/static/js/runtime-main.dc65dcbe.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/randa/static/css/2.20aa2d7b.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.a74284c8.chunk.js",
     "static/css/main.8b8ab676.chunk.css",
-    "static/js/main.889cdc15.chunk.js"
+    "static/js/main.ed218304.chunk.js"
   ]
 }
