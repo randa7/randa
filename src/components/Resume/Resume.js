@@ -8,6 +8,8 @@ import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
 
+
+
   return (
     <Container fluid className="resume-section">
       <Particle />
@@ -22,14 +24,32 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Web Developer [SMKN 2 Teluk Kuantan]"
+              title="Associate Data Scientist [MSIB AI Microcredential]"
+              date="November 2021 - December 2021"
+              content={[
+                " Complete all courses of associate data science microcredential from DIKTI (Direktorat Jenderal Pendidikan Tinggi)/Directorate General of Higher Education",
+                "Built a final project about NLP (Natural Language Processing) model to predict the validity of a news using LSTM model",
+              ]}
+            />
+
+            <Resumecontent
+              title="Web Developer Intern [SMKN 2 Teluk Kuantan]"
               date="January 2021 - March 2021"
               content={[
-                "Succesfully develop SIPAS (Sistem Informasi Pengelolaan Arsip Surat), a system made to help institution to manage incoming and outgoing mails data.",
+                "Successfully develop SIPAS (Sistem Informasi Pengelolaan Arsip Surat), a system made to help institution to manage incoming and outgoing mails data.",
               ]}
             />
             
+            <Resumecontent
+              title="Laboratory Assistant [Diponegoro University]"
+              date="October 2020 - December 2020"
+              content={[
+                "Had successfully organized, demonstrated, and executed good laboratory works as a respectable mentor and trustworthy assistant for Numerical Methods subjects.",
+              ]}
+            />
+
             <h3 className="resume-title">Certificates</h3>
+
             <Resumecontent
               title=""
               content={[
@@ -43,17 +63,18 @@ function Resume() {
                 `Laravel Web Development at Sanbercode`,
               ]}
             />
+
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="Computer Science [Diponegoro University] "
               date="2018 - Present"
-              content={[`CGPA: 3.83 (Till 7th Sem)`]}
+              content={[`CGPA: 3.84 (Till 7th Sem)`]}
             />
             <Resumecontent
               title="Natural Science [SMAN 1 Doloksanggul]"
-              date="2015 - 2017"
+              date="2016 - 2018"
               content={[]}
             />
             
@@ -69,7 +90,8 @@ function Resume() {
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={pdf} target="_blank">
-          <AiOutlineDownload />&nbsp;Download CV
+            <AiOutlineDownload />
+            &nbsp;Download CV
           </Button>
         </Row>
       </Container>
