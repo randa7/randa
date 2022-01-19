@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/randa/static/css/main.8b8ab676.chunk.css",
-    "main.js": "/randa/static/js/main.c14c8401.chunk.js",
-    "main.js.map": "/randa/static/js/main.c14c8401.chunk.js.map",
+    "main.js": "/randa/static/js/main.d386bc8a.chunk.js",
+    "main.js.map": "/randa/static/js/main.d386bc8a.chunk.js.map",
     "runtime-main.js": "/randa/static/js/runtime-main.dc65dcbe.js",
     "runtime-main.js.map": "/randa/static/js/runtime-main.dc65dcbe.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/randa/static/css/2.20aa2d7b.chunk.css",
@@ -29,7 +29,7 @@
     "static/media/logo.426aa54b.png": "/randa/static/media/logo.426aa54b.png",
     "static/media/nlp.4bcbff75.png": "/randa/static/media/nlp.4bcbff75.png",
     "static/media/paper.af922dd4.png": "/randa/static/media/paper.af922dd4.png",
-    "static/media/randa.5d9fd5cf.pdf": "/randa/static/media/randa.5d9fd5cf.pdf",
+    "static/media/randa.56df0163.pdf": "/randa/static/media/randa.56df0163.pdf",
     "static/media/sipas.06af2a32.png": "/randa/static/media/sipas.06af2a32.png",
     "static/media/suicide.b72f1f9f.png": "/randa/static/media/suicide.b72f1f9f.png"
   },
@@ -38,6 +38,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.77a988e6.chunk.js",
     "static/css/main.8b8ab676.chunk.css",
-    "static/js/main.c14c8401.chunk.js"
+    "static/js/main.d386bc8a.chunk.js"
   ]
 }
